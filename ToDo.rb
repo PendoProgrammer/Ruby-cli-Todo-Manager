@@ -426,3 +426,5 @@ if __FILE__ == $0
   cli = TodoCLI.new
   cli.run
 end
+
+#kase lage mare todo app
